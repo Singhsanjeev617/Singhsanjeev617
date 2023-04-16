@@ -6,9 +6,8 @@ const SinghSanjeev617 = {
     Location: ["Delhi, IN"],
     Contact: ["singhsanjeev617@gmail.com"],
     Portfolio: ["https://sanjeev.cyber4all.in/"],
-    Collaborations: ["Cyber Security", "Data Security", "Pentesting", "Security Research Techniques", 
-                    "Offensive Security"],
-    AboutMe: ["Certified Cyber Security Specialist & Professional with almost 2+years of experience in Security Monitoring, Threat Hunting, Incident Response, 			Offensive Security, Enterprise Security & Critical Infrastructure Vulnerability Assessment & Pentesting."],
+    Collaborations: ["Cyber Security", "Data Security", "Pentesting", "Security Research Techniques", "Offensive Security"],
+    AboutMe: ["Certified Cyber Security Specialist & Professional with almost 2+years of experience in Security Monitoring, Threat Hunting, Incident Response, Offensive Security, Enterprise Security & Critical Infrastructure Vulnerability Assessment & Pentesting."],
     AskMe: ["Emerging Trends", "Offensive Security ", "Windows Exploitation", "Threat Hunting", "Incidence Response",
                 "Red Teaming", "Cyber-ops", "VAPT", "Ethical Hacking"],
     Hobbies: {
@@ -30,8 +29,6 @@ const SinghSanjeev617 = {
   </p>
 
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 <h2 align="center">Let's Connect :coffee:</h2></a>
 <p align="center">
