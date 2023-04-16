@@ -7,7 +7,8 @@ const SinghSanjeev617 = {
     Contact: ["singhsanjeev617@gmail.com"],
     Portfolio: ["https://sanjeev.cyber4all.in/"],
     Collaborations: ["Cyber Security", "Data Security", "Pentesting", "Security Research Techniques", "Offensive Security"],
-    AboutMe: ["Certified Cyber Security Specialist & Professional with almost 2+years of experience in Security Monitoring, Threat Hunting, Incident Response, Offensive Security, Enterprise Security & Critical Infrastructure Vulnerability Assessment & Pentesting."],
+    AboutMe: ["Certified Cyber Security Specialist & Professional with 2+Years of experience in Security Monitoring, 
+	    	Threat Hunting, Incident Response, Offensive Security, Enterprise Security & Critical Infrastructure Vulnerability Assessment & Pentesting."],
     AskMe: ["Emerging Trends", "Offensive Security ", "Windows Exploitation", "Threat Hunting", "Incidence Response",
                 "Red Teaming", "Cyber-ops", "VAPT", "Ethical Hacking"],
     Hobbies: {
