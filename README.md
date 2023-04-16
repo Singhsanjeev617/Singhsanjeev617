@@ -8,8 +8,8 @@ const SinghSanjeev617 = {
     Portfolio: ["https://sanjeev.cyber4all.in/"],
     Collaborations: ["Cyber Security", "Data Security", "Pentesting", "Security Research Techniques", 
                     "Offensive Security"],
-    WorkingOn: ["building a solid career in the cyber-security field here in my country..."],
-    AskMeAbout: ["Emerging Trends", "Offensive Security ", "Windows Exploitation", "Threat Hunting", "Incidence Response",
+    AboutMe: ["Certified Cyber Security Specialist & Professional with almost 2+years of experience in Security Monitoring, Threat Hunting, Incident Response, 			Offensive Security, Enterprise Security & Critical Infrastructure Vulnerability Assessment & Pentesting."],
+    AskMe: ["Emerging Trends", "Offensive Security ", "Windows Exploitation", "Threat Hunting", "Incidence Response",
                 "Red Teaming", "Cyber-ops", "VAPT", "Ethical Hacking"],
     Hobbies: {
         major: {
@@ -26,9 +26,9 @@ const SinghSanjeev617 = {
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-ffb400?style=flat-square&logo=php&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-ffb400?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-ffb400?style=flat-square&logo=mysql&logoColor=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-ffb400?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-ffb400?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Shell" src="https://img.shields.io/badge/-Shell-ffb400?style=flat-square&logo=shell&logoColor=white" />
+ // <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-ffb400?style=flat-square&logo=html5&logoColor=white" />
+//  <img alt="Git" src="https://img.shields.io/badge/-Git-ffb400?style=flat-square&logo=git&logoColor=white" />
+  <img alt="PowerShell" src="https://img.shields.io/badge/-Shell-ffb400?style=flat-square&logo=shell&logoColor=white" />
   </p>
 
 
