@@ -48,6 +48,10 @@ const SinghSanjeev617 = {
 <!-- <code><img src="https://cylab.be/storage/blog/205/files/ZyBJGF6lu6YnQ0XM/parrot_logo2.png" height="40"></code>
 -->
 
+## Professional Certificate Badges
+
+![EC-Council Certified Ethical Hacker Certificate](https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/CEH_2E345519D3F7.png)
+
 <h2 align="center">Let's Connect :coffee:</h2></a>
 <p align="center">
 	<a href="https://www.linkedin.com/in/singhsanjeev617/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
