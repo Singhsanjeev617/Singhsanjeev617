@@ -31,7 +31,7 @@ const SinghSanjeev617 = {
 
 ## Tools & SWs
 
-![Notion](https://img.icons8.com/ios/35/notion.png)![Figma](https://img.icons8.com/?id=8gfeOoqrHqJU&size=35)![VMware](https://img.icons8.com/?id=mkkp6yt38FVq&size=35)![VirtualBox](https://img.icons8.com/?id=38792&size=35)![Postman](https://img.icons8.com/external-tal-revivo-color-tal-revivo/35/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png)![Jetbrains Products](https://img.icons8.com/color/35/jetbrains.png)![IntelliJ IDEA](https://img.icons8.com/?id=61466&size=35)![PyCharm](https://img.icons8.com/?id=117121&size=35)![WebStorm](https://img.icons8.com/?id=32sNCVhNAx9Y&size=35)![Visual Studio](https://img.icons8.com/?id=y7WGoWNuIWac&size=35)![VSCode](https://img.icons8.com/color/35/visual-studio-code-2019.png)![SceneBuilder](https://img.icons8.com/?id=BZz399uT6eo0&size=35&color=000000)![Eclipse](https://img.icons8.com/office/35/java-eclipse.png)![Anaconda](https://img.icons8.com/fluency/35/anaconda--v2.png)![Console](https://img.icons8.com/color/35/console.png)![CMD](https://img.icons8.com/?id=19291&size=35)
+![Notion](https://img.icons8.com/ios/35/notion.png)![Figma](https://img.icons8.com/?id=8gfeOoqrHqJU&size=35)![VMware](https://img.icons8.com/?id=mkkp6yt38FVq&size=35)![VirtualBox](https://img.icons8.com/?id=38792&size=35)![Postman](https://img.icons8.com/external-tal-revivo-color-tal-revivo/35/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png)![Jetbrains Products](https://img.icons8.com/color/35/jetbrains.png)![IntelliJ IDEA](https://img.icons8.com/?id=61466&size=35)![PyCharm](https://img.icons8.com/?id=117121&size=35)![Visual Studio](https://img.icons8.com/?id=y7WGoWNuIWac&size=35)![VSCode](https://img.icons8.com/color/35/visual-studio-code-2019.png)![Anaconda](https://img.icons8.com/fluency/35/anaconda--v2.png)![Console](https://img.icons8.com/color/35/console.png)![CMD](https://img.icons8.com/?id=19291&size=35)
 
 ## Operating Systems & Distributions
 
@@ -43,7 +43,7 @@ const SinghSanjeev617 = {
 <code><img src="https://github.com/fireeye/commando-vm/blob/main/Commando.png" height="40"></code>
 <code><img src="https://raw.githubusercontent.com/mandiant/flare-vm/master/flarevm.png" height="40"></code>
 -->
-<code><img src="https://avatars.githubusercontent.com/u/8752987?s=200&v=4" height="40"></code>
+<!-- <code><img src="https://avatars.githubusercontent.com/u/8752987?s=200&v=4" height="40"></code>-->
  <code><img src="https://cylab.be/storage/blog/205/files/ZyBJGF6lu6YnQ0XM/parrot_logo2.png" height="40"></code>
 
 
